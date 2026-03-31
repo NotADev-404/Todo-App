@@ -201,7 +201,7 @@ Contributions welcome! Feel free to fork, make changes, and submit a pull reques
 
 ### 🔗 Quick Links
 
-- **GitHub:** [your-repo-url](https://github.com)
+- **GitHub:** https://github.com/NotADev-404/Todo-App
 - **Live Demo:** https://todo-app-eight-cyan-40.vercel.app/
 - **Issues:** Report bugs in GitHub Issues
 
