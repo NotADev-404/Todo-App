@@ -202,7 +202,7 @@ Contributions welcome! Feel free to fork, make changes, and submit a pull reques
 ### 🔗 Quick Links
 
 - **GitHub:** [your-repo-url](https://github.com)
-- **Live Demo:** [your-vercel-url](https://vercel.com)
+- **Live Demo:** https://todo-app-eight-cyan-40.vercel.app/
 - **Issues:** Report bugs in GitHub Issues
 
 ---
